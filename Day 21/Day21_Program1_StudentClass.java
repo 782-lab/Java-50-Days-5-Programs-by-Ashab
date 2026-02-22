@@ -1,8 +1,10 @@
-class Student {
+class Student 
+{
     String name;
     int roll;
 
-    void display() {
+    void display() 
+    {
         System.out.println("Name: " + name);
         System.out.println("Roll: " + roll);
     }
