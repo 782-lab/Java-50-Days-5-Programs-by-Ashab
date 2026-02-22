@@ -3,7 +3,8 @@ class Employee {
     String name;
     double salary;
 
-    void show() {
+    void show() 
+    {
         System.out.println("ID: " + id);
         System.out.println("Name: " + name);
         System.out.println("Salary: " + salary);
