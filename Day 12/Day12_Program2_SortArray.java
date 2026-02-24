@@ -1,5 +1,6 @@
 class Day12_Program2_SortArray {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         int[] arr = {40, 10, 50, 20, 30};
 
         for (int i = 0; i < arr.length - 1; i++) {
