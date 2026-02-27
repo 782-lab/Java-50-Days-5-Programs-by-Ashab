@@ -8,4 +8,5 @@ class Day22_Program1_DefaultConstructor {
     public static void main(String[] args) {
         Student s = new Student();
     }
+    
 }
