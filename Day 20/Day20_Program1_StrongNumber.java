@@ -6,7 +6,8 @@ class Day20_Program1_StrongNumber
         int original = num;
         int sum = 0;
 
-        while (num > 0) {
+        while (num > 0) 
+        {
             int digit = num % 10;
             int fact = 1;
 
