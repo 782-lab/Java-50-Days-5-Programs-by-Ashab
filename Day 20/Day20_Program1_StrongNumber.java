@@ -11,7 +11,8 @@ class Day20_Program1_StrongNumber
             int digit = num % 10;
             int fact = 1;
 
-            for (int i = 1; i <= digit; i++) {
+            for (int i = 1; i <= digit; i++) 
+            {
                 fact = fact * i;
             }
 
