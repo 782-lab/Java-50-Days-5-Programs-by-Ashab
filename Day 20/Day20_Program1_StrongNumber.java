@@ -1,4 +1,5 @@
-class Day20_Program1_StrongNumber {
+class Day20_Program1_StrongNumber
+    {
     public static void main(String[] args) {
         int num = 145;
         int original = num;
